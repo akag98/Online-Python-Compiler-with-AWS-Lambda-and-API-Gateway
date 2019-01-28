@@ -1,0 +1,21 @@
+body {
+    padding-top: 54px;
+  }
+  
+  .ace-editor {
+    height: 175px;
+    width: 1000px;
+  }
+  
+  .answer {
+    padding-top: 30px;
+    color: #dc3545;
+    font-style: italic;
+  }
+  
+  @media (min-width: 992px) {
+    body {
+      padding-top: 56px;
+    }
+  }
+  
